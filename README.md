@@ -267,17 +267,16 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 
 
-## Author - Zero Analyst
+## Author - PRAYAS RATHORE
 
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my Work, showcasing the SQL skills essential for data analyst roles. If you have any questions, feel free to get in touch!
 
-### Stay Updated and Join the Community
+### Stay Updated 
 
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
-- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
-- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+
+- **YouTube**: [Subscribe to my channel for ](https://www.youtube.com/@prayasrathore_)
+- **Instagram**: [Follow me ](https://www.instagram.com/rathoreprayas_)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/prayas-rathore-b520b1236)
 
 Thank you for your support, and I look forward to connecting with you!
